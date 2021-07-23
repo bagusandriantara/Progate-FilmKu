@@ -1,0 +1,23 @@
+@media(max-width:1000) {
+    .header-left {
+        width: 25%;
+    }
+    .header-list {
+        width: 25%;
+    }
+    .header-right {
+        width: 25%;
+    }
+}
+
+@media(max-width:1000) {
+    .header-left {
+        width: 100%;
+    }
+    .header-list {
+        width: 100%;
+    }
+    .header-right {
+        width: 100%;
+    }
+}
